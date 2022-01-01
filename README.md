@@ -1,8 +1,13 @@
 **AminoAcidComposition: A Python-module for encoding proteins or peptides into numerical vectors based on their sequences or structures.**
+
 AminoAcidComposition is a Python-module for generating several numerical representations from protein or peptide sequences and structures. 
+
 AminoAcidComposition includes different amino acid encodings: Distance Frequency, the normal AminoAcidComposition, Quantitative Matrix and Delaunay Triangulation. 
+
 Furthermore, AminoAcidComposition contains two utilities functions, that can be used independently, one class contains variables and functions and the other class contains functions to generate specific data frames. 
+
 This module also encompasses three machine learning algorithms and four metrics to validate the predictions of machine learning algorithms.
+
 
 **Installation**
 In order to run AminoAcidComposition, following Python-packages will be needed:
