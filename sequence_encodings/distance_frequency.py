@@ -1,4 +1,4 @@
-from utility import Utils
+from utilities.utility import Utils
 
 __author__ = "Siba Mohsen"
 

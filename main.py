@@ -1,10 +1,10 @@
-from utility_df_generation import UtilsDataFrames
+from utilities.utility_df_generation import UtilsDataFrames
 from machine_learning_models import Classification
 from quantitative_matrix import Score
 from sklearn import preprocessing
 from statistics import mean
 import numpy as np
-from sklearn.metrics import accuracy_score, f1_score, matthews_corrcoef, roc_auc_score, roc_curve, auc, confusion_matrix
+from sklearn.metrics import accuracy_score, f1_score, matthews_corrcoef, roc_auc_score, confusion_matrix
 import matplotlib.pyplot as plt
 
 

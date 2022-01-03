@@ -2,7 +2,7 @@ from Bio import PDB
 import numpy as np
 import pandas as pd
 from scipy.spatial import Delaunay
-from utility import Utils
+from utilities.utility import Utils
 
 __author__ = "Siba Mohsen"
 
